@@ -1,0 +1,2 @@
+# Kelvin-Helholtz-Instability
+Simulation of the incompressible Kelvin-Helmholtz problem. We non-dimensionalize the problem by taking the box height to be one and the jump in velocity to be one. We use no slip boundary conditions, and a box with aspect ratio 𝐿/𝐻 = 2. The initial velocity profile is given by a hyperbolic tangent, and only a single mode is initially excited. We will also track a passive scalar which will help us visualize the instability.
